@@ -1,0 +1,7 @@
+G:\Coding\C#\EZHeader\bin\Debug\EZHeader.exe.config
+G:\Coding\C#\EZHeader\bin\Debug\EZHeader.exe
+G:\Coding\C#\EZHeader\bin\Debug\EZHeader.pdb
+G:\Coding\C#\EZHeader\obj\Debug\EZHeader.csproj.AssemblyReference.cache
+G:\Coding\C#\EZHeader\obj\Debug\EZHeader.csproj.CoreCompileInputs.cache
+G:\Coding\C#\EZHeader\obj\Debug\EZHeader.exe
+G:\Coding\C#\EZHeader\obj\Debug\EZHeader.pdb
